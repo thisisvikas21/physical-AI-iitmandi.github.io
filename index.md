@@ -1,0 +1,44 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+permalink: /
+title: "Home"
+width: 1200
+redirect_from:
+    - /home
+---
+
+<img src="/assets/images/iitd-logo.png" width="80px" height="80px" style="float: right;">
+
+<img src="/assets/images/vision-lab-group.png" width="35%" height="35%" style="border:10px solid white; float: right;" >
+<br>
+
+
+<h3> About the Lab</h3>
+The Phyiscal AI IIT Mandi is a research group in the Centre for Artificial Intelligence and Robotics at [IIT Mandi](https://www.cse.iitd.ac.in/), lead by Associate Professor Amit Shukla. With 28 graduate students (PhD/MS) and multiple B.Techs, and Interns, the research group is one of the largest in the department.
+Currently, the group focuses on several areas in computer vision, natural language proocessing, drone technology, and robotics. For more details, please check the publications.
+We have access to the latest Nvidia V100 (32 GB) and A100 (40GB, 80GB) GPUs, and a RAID data server of size ~90TB. 
+<br>
+<br>
+
+# News
+* 03/2024 Two papers accepted in CVPR 2024!
+* 01/2024 Six papers published in WACV 2024!
+* 10/2023 Two papers published in ICIP 2023!
+* 08/2023 One paper published in ICDAR 2023!
+* 06/2023 Three papers accepted in MICCAI 2023!
+* 06/2023 One paper published in IEEE Transactions on Pattern Analysis (TPAMI) 2023!
+* 01/2023 One paper published in Elsevier Pattern Recognition!
+* 01/2023 One paper published in Elsevier Medical Analysis (IF: 13.828)!
+* 01/2023 Three papers published in WACV 2023!
+* 10/2022 Two papers published in ICIP 2022!
+* 07/2022 One paper published in Nature Scientific Reports (IF: 4.996)!
+* 07/2022 Two papers accepted in ECCV 2022!
+* 06/2022 One paper accepted in ECML 2022 (Research track)!
+* 06/2022 One paper accepted in MICCAI 2022!
+* 05/2022 Lab's own data server is installed.
+* 05/2022 3 new A100 (80 GB) GPUs installed.
+* 03/2022 Three papers accepted in CVPR 2022!
+* 03/2022 Group website is up.

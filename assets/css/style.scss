@@ -1,0 +1,34 @@
+---
+---
+
+$content-width:    1200px;
+$on-palm:          800px;
+$on-laptop:        1200px;
+// @import "solarized-dark";
+@import "{{site.theme}}";
+ul {
+    text-align: justify;
+}
+p {
+    text-align: justify;
+}
+ul.people{list-style-type:none;padding-left:0; text-align: left;}
+ul.people li div.row{position: relative;width: auto}
+ul.people li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:15px;margin-left:1em;}
+ul.people li div.text{font-size: 14px;}
+// @include media-query($on-laptop) {
+// }
+ul.people li{
+    display: inline-block;
+    margin: 2em;
+    flex-grow: 1;
+    width: calc(40% - 2em);}
+@include media-query($on-palm) {
+    ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
+}
+//ul.people li{margin-right:2em;text-align:left;}
+ul.people li img{width:80px;height:80px;border-radius:40px;margin:10px auto}
+
+
+
+
